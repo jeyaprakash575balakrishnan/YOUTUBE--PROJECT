@@ -20,9 +20,7 @@ The problem statement is to create a Streamlit application that allows users to 
 
 4.Google Client Library-Youtube API key.
 
-5.Virtual code.
-
-6.Jupyter notebook.
+5.Visual studio code.
 
 ## Features
 $ Ability to input a YouTube channel ID and retrieve all the relevant data (Channel name, subscribers, total video count, playlist ID, video ID, likes, dislikes, and comments of each video) using Google API.
